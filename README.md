@@ -8,22 +8,24 @@ Historically, supermarkets have their business models radically reshaped by paym
 
 This analysis seeks to increase sales volume thus benefiting the business as a whole by finding out the following information:
 
-The most preferred payment method cash, mpesa or visa card.
-
-The most generated sales from individuals in the branch.
-
-The time of the day or night do supermarkets receive the most traffic (weekdays/weekends)?
-
-The most popular category of products
-
-Did consumers prefer chain/medium or small stores?
-
-Whether having high-end consumables benefit the supermarket more than low end consumables 
 
 
-The Language used is Python
+   **The most preferred payment method cash, mpesa or visa card.**
 
-The project was done on a Google Colab Notebook IDE
+   **The most generated sales from individuals in the branch.**
+
+   **The time of the day or night do supermarkets receive the most traffic (weekdays/weekends)?**
+
+   **The most popular category of products**
+
+   **Did consumers prefer chain/medium or small stores?**
+
+   **Whether having high-end consumables benefit the supermarket more than low end consumables##
+
+
+The Language used is **Python**
+
+The project was done on a **Google Colab Notebook** IDE
 
 As a collaboration By Charles Mburu, Denver Ruhiu, Francis Thiru, Kevin Misoi, Mercy Jepkogei and Oprah Muthoni
 
