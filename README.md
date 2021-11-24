@@ -9,7 +9,7 @@ Historically, supermarkets have their business models radically reshaped by paym
 This analysis seeks to increase sales volume thus benefiting the business as a whole by finding out the following information:
 
 
-
+********************************************************************************************************************************
 
 
    **The most preferred payment method cash, mpesa or visa card.**
@@ -26,6 +26,7 @@ This analysis seeks to increase sales volume thus benefiting the business as a w
 
 
 
+**************************************************************************************************************************************
 
 The Language used is **Python**
 
