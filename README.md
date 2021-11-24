@@ -10,6 +10,8 @@ This analysis seeks to increase sales volume thus benefiting the business as a w
 
 
 
+
+
    **The most preferred payment method cash, mpesa or visa card.**
 
    **The most generated sales from individuals in the branch.**
@@ -20,7 +22,9 @@ This analysis seeks to increase sales volume thus benefiting the business as a w
 
    **Did consumers prefer chain/medium or small stores?**
 
-   **Whether having high-end consumables benefit the supermarket more than low end consumables##
+   **Whether having high-end consumables benefit the supermarket more than low end consumables**
+
+
 
 
 The Language used is **Python**
