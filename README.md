@@ -8,7 +8,7 @@ Historically, supermarkets have their business models radically reshaped by paym
 
 This analysis seeks to increase sales volume thus benefiting the business as a whole by finding out the following information:
 
-The most preferred payment method (cash, mpesa or visa card.
+The most preferred payment method cash, mpesa or visa card.
 
 The most generated sales from individuals in the branch.
 
@@ -23,6 +23,8 @@ Whether having high-end consumables benefit the supermarket more than low end co
 
 The Language used is Python
 
-The project was done on a Google Colab Notebook IDE as a collaboration By Charles Mburu, Denver Ruhiu, Francis Thiru, Kevin Misoi, Mercy Jepkogei and Oprah Muthoni
+The project was done on a Google Colab Notebook IDE
+
+As a collaboration By Charles Mburu, Denver Ruhiu, Francis Thiru, Kevin Misoi, Mercy Jepkogei and Oprah Muthoni
 
 A data report was written containing the analysis process and recommendations
